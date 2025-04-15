@@ -1,7 +1,7 @@
-streamlit
-gspread
-pandas
-plotly-express
-google-auth
-st-aggrid
-streamlit-plotly-events
+streamlit>=1.28.0
+gspread>=5.7.0
+pandas>=2.0.0
+plotly-express>=0.4.0
+google-auth>=2.0.0
+st-aggrid>=0.3.0
+streamlit-plotly-events>=1.0.0
