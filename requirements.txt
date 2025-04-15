@@ -3,5 +3,5 @@ gspread>=5.7.0
 pandas>=2.0.0
 plotly-express>=0.4.0
 google-auth>=2.0.0
-st-aggrid>=0.3.0
-streamlit-plotly-events>=1.0.0
+streamlit-ag-grid>=0.3.0  # Changed from st-aggrid
+pyopenssl>=23.2.0
