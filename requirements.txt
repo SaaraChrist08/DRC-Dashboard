@@ -1,7 +1,8 @@
-streamlit>=1.28.0
-gspread>=5.7.0
-pandas>=2.0.0
-plotly-express>=0.4.0
-google-auth>=2.0.0
-streamlit-ag-grid>=0.3.0  # Changed from st-aggrid
-pyopenssl>=23.2.0
+streamlit==1.28.0
+gspread==5.8.0
+pandas==2.0.3
+plotly-express==0.4.1
+google-auth==2.17.3
+streamlit-aggrid==0.1.0
+pyopenssl==23.2.0pip install st-aggrid==0.3.4.post3
+
