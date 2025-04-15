@@ -1,0 +1,7 @@
+streamlit
+gspread
+pandas
+plotly-express
+google-auth
+st-aggrid
+streamlit-plotly-events
